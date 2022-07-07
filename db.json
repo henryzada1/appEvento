@@ -1,0 +1,47 @@
+{
+    "evento":
+    [
+        {
+            "id": 1,
+            "evento": "No último dia do evento, será jogo da -- contra a --",
+            "descricao": "Após seu último jogo contra a --, a -- saiu na frente e disputará a final contra a --, que fez uma virada linda nas quartas!",
+            "foto": "require(./assets/icon.png)"
+        },
+        {
+            "id": 2,
+            "evento": "Na segunda fase das semis, a -- vence a -- de 3 a 2",
+            "descricao": "Após um jogo acirrado entre os dois times, a -- sai na frente e chega as finais!",
+            "foto": "require(./assets/favicon.png)"
+        },
+        {
+            "id": 3,
+            "evento": "Na primeira fase das semis, a -- vence a -- de 3 a 0",
+            "descricao": "Após um jogo justo, a -- ganha o jogo, sem dificuldades, e passa para o final.",
+            "foto": "require(./assets/icon.png)"
+        },
+        {
+            "id": 4,
+            "evento": "Na última fase das quartas, a -- vence a -- de 3 a 2",
+            "descricao": "Após uma virada histórica, a -- passa para a primeira fase das semis!",
+            "foto": "require(./assets/favicon.png)"
+        },
+        {
+            "id": 5,
+            "evento": "Na terceira fase das quartas, a -- vence a -- de 3 a 1",
+            "descricao": "Foi um jogo justo e disputado no início, mas a -- abriu vantagem e sai na frente.",
+            "foto": "require(./assets/favicon.png)"
+        },
+        {
+            "id": 6,
+            "evento": "Na segunda fase das quartas, a -- vence a -- de 3 a 2",
+            "descricao": "Após um jogo no qual a -- escolheu os mapas, a -- mesmo assim, ganha o jogo e passa para a outra fase!",
+            "foto": "require(./assets/icon.png)"
+        },
+        {
+            "id": 7,
+            "evento": "Na primeira fase das quartas, a -- vence a -- de 3 a 0",
+            "descricao": "Após um jogo sem muitas dificuldades, a -- derrota a --, e sai na frente, marcando território!",
+            "foto": "require(./assets/icon.png)"
+        }
+    ]
+}
